@@ -1,0 +1,27 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Lasagna",
+      "catergory": "pasta",
+      "ethnicity": "Italian",
+      "barcode": "00087544"
+
+    },
+    {
+      "id": 3,
+      "name": "Pizza",
+      "catergory": "bready",
+      "ethnicity": "Italian",
+      "barcode": "3242272340850"
+    },
+
+    {
+      "name": "Ramen",
+      "catergory": "soup",
+      "ethnicity": "Japanese",
+      "id": 6,
+      "barcode": "5997523317072"
+    }
+  ]
+}
