@@ -1,4 +1,6 @@
-
+let subject = "Test"
+let body = "hey this is a test"
+window.open("mailto:test@example.com?subject=subject&body=body");
 
 let foodFactory = (foodObject) => {
 
